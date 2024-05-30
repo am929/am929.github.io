@@ -102,6 +102,6 @@ theme: hexo-theme-Kaze
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/am929/am929.github.io
+  repo: git@github.com:am929/am929.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
