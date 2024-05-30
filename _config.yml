@@ -104,4 +104,4 @@ deploy:
   type: git
   repo: git@github.com:am929/am929.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
+  branch: master
